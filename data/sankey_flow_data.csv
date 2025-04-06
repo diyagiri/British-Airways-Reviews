@@ -1,0 +1,33 @@
+Source,Target,Outcome,Count
+Business,Business Class,no,118
+Business,Business Class,yes,30
+Business,Economy Class,no,86
+Business,Economy Class,yes,36
+Business,First Class,no,14
+Business,First Class,yes,4
+Business,Premium Economy,no,18
+Business,Premium Economy,yes,10
+Couple Leisure,Business Class,no,97
+Couple Leisure,Business Class,yes,96
+Couple Leisure,Economy Class,no,111
+Couple Leisure,Economy Class,yes,69
+Couple Leisure,First Class,no,19
+Couple Leisure,First Class,yes,16
+Couple Leisure,Premium Economy,no,26
+Couple Leisure,Premium Economy,yes,12
+Family Leisure,Business Class,no,17
+Family Leisure,Business Class,yes,37
+Family Leisure,Economy Class,no,56
+Family Leisure,Economy Class,yes,42
+Family Leisure,First Class,no,6
+Family Leisure,First Class,yes,3
+Family Leisure,Premium Economy,no,8
+Family Leisure,Premium Economy,yes,4
+Solo Leisure,Business Class,no,42
+Solo Leisure,Business Class,yes,64
+Solo Leisure,Economy Class,no,101
+Solo Leisure,Economy Class,yes,102
+Solo Leisure,First Class,no,10
+Solo Leisure,First Class,yes,15
+Solo Leisure,Premium Economy,no,22
+Solo Leisure,Premium Economy,yes,32
